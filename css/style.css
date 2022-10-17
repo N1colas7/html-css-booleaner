@@ -27,3 +27,16 @@
 .important_text{
     background-color: rgb(210, 233, 4);
 }
+.width_table{
+    width: 100%;
+}
+.height_table{
+    height: 70px;
+}
+#table1_color{
+background-color: darkturquoise;
+color: white;
+}
+.background_blue{
+    background-color: aquamarine;
+}
