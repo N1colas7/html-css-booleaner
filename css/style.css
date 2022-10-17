@@ -14,7 +14,13 @@
 #text_title {
     text-align: left;
 }
+.text_grey{
+    color: rgb(220, 220, 220);
+}
 
 #color_text {
     color: aqua;
+}
+#description_photo{
+    font-size: smaller;
 }
