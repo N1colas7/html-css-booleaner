@@ -1,6 +1,20 @@
-#prima_immagine{
-    background-image: url("pattern.png");
-    background-color: rgb(58, 136, 161);
+#prima_immagine {
+    background-color: cornflowerblue;
+    background-image: url(../img/pattern.png);
+    background-repeat: repeat;
+    height: 160px;
+    width: 100%;
+}
+
+#logo {
     height: 250px;
-    width: 250px;
+    width: 200px;
+}
+
+#text_title {
+    text-align: left;
+}
+
+#color_text {
+    color: aqua;
 }
