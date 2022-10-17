@@ -1,7 +1,6 @@
-#colore_background{
-    background-color: rgb(92, 170, 243);
-}
 #prima_immagine{
-   height: 100px;
-   background-repeat: repeat;
+    background-image: url("pattern.png");
+    background-color: rgb(58, 136, 161);
+    height: 250px;
+    width: 250px;
 }
