@@ -15,7 +15,7 @@
     text-align: left;
 }
 .text_grey{
-    color: rgb(220, 220, 220);
+    color: rgb(77, 77, 77);
 }
 
 #color_text {
@@ -40,3 +40,22 @@ color: white;
 .background_blue{
     background-color: aquamarine;
 }
+#text_strong{
+    font-size: large;
+}
+.text_white{
+    color: white;
+    font-size: large;
+
+}
+#computer_imagine{
+    background-image: url(..//img/monitor.jpg);
+    width: 250px;
+    height: 200px;
+}
+#graph_imagine{
+    background-image: url(..//img/graph.jpg);
+    width: 250px;
+    height: 200px;
+}
+
